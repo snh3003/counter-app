@@ -1,0 +1,8 @@
+#################### Component STYLE #######################
+
+
+
+
+#################### Global STYLE #######################
+
+/* main style for the page and setting background */
